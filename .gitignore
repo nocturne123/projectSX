@@ -16,3 +16,4 @@ data_*/
 *.exe
 ~$*.xlsx
 *.pyc
+*.import
